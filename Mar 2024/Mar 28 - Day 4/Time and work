@@ -1,0 +1,27 @@
+1. A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?
+a.12 days        b.15 days        c.16 days         d.18 days
+ans
+LCM of A,B and C = 60
+efficiency of A, B, C = 3,2,1
+A's work at day1 =1/20 , B's work at day 2=1/20  , at day 3=A+B+C= 1/10
+work in 3 days= 1/20+1/20+1/10
+              = 1/5
+one cycle has 3 days, so 5 cycles = 5*3=15 days
+Ans: 15 days
+
+2. A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?
+a.Rs. 375         b.Rs. 400         c.Rs. 600        d.Rs. 800
+ans
+C work unknown and total work unknown
+Lcm of 6 and 8 is 24
+3(1/6 + 1/8 + 1/x) =1
+3(7/24) + 3/x = 1
+3/x = 1 - 21/24
+3/x = 24-21/24 
+  x =  24
+Lcm of 6, 8 , 24 is 24.
+efficiency of A,B,C = 4,3,1
+amout paid to c = 1/8 * 3200 
+                = 3200/8 
+                = 400
+Ans: 400
